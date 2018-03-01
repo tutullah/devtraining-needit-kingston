@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>service-catalog</category>
+        <content><![CDATA[ <h1 class="title topictitle1">Service catalog variables</h1>  <div class="body conbody">  <p class="p"><span class="ph">Service catalog variables capture and pass on information about          choices a customer makes when ordering a catalog item. Variables help define the structure          of a catalog item form that is displayed to the customer.</span></p>  <p class="p">For example, you can define a variable called          <span class="ph uicontrol">Memory</span> to provide users with memory options at an extra cost for a        PC catalog item. An Apple iPhone catalog item can use a variable called          <span class="ph uicontrol">Color</span> that allows customers to select the color when they order the        phone from the catalog. You can define some variables to affect an item price, depending on        the choices made. </p>  <p class="p">Variables are also used in record producers that insert a record into a task table, such as an   incident. Record producer variables can be mapped to a field in the task table.</p> </div> <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Using_Service_Catalog_Variables&amp;version&#61;kingston" target="_blank">Service catalog variables</a></div></div></div></div>]]></content>
+        <last_sync>2018-02-28 13:15:07</last_sync>
+        <modifier>normal</modifier>
+        <name>item_option_new_list-normal</name>
+        <page>item_option_new_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-02-28 13:15:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9b6be579db2c13001a68f11ebf961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item_option_new_list-normal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_9b6be579db2c13001a68f11ebf961954</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-02-28 13:15:07</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=9b6be579db2c13001a68f11ebf961954"/>
+</record_update>
